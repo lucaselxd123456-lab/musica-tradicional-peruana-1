@@ -1,0 +1,28 @@
+ARCHIVOS DEL PROYECTO
+=====================
+
+Coloca estos archivos todos en la misma carpeta que index.html:
+
+fondo.png             -> fondo del escritorio estilo Windows XP
+peluche.png            -> imagen del peluche
+sonidopeluche.mp3      -> sonido del peluche (NO renombrar)
+fondo_playa.png        -> TU imagen de playa (PNG)
+mi_cancion.mp3         -> TU canción (MP3)
+
+La página ya está preparada para buscar exactamente:
+- fondo_playa.png
+- mi_cancion.mp3
+
+El archivo index.html fue rediseñado tomando como referencia el aspecto
+retro de la imagen: Windows XP, barras azules, ventanas clásicas y
+reproductor multimedia antiguo.
+
+
+CAMBIOS DE ESTA VERSION
+- El peluche ahora se aplasta y vuelve a su forma normal automaticamente.
+- La seccion de Mi cancion + fondo de playa esta al inicio de la pagina.
+
+ARCHIVOS PARA AGREGAR
+- fondo_playa.png = imagen de la playa que quieras usar.
+- mi_cancion.mp3 = tu cancion.
+Ambos deben estar en esta misma carpeta, junto a index.html.
